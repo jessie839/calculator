@@ -59,7 +59,7 @@ form input.equal{
         height: 45px;
         font-size: 1rem;
     }
-}
+
 
 @media (max-width: 480px) {
     .calculator {
@@ -74,4 +74,8 @@ form input.equal{
         height: 40px;
         font-size: 0.9rem;
     }
+}
+
+
+
 }
